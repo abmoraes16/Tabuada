@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\bin\Debug\netcoreapp2.0\Tabuada.deps.json
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\bin\Debug\netcoreapp2.0\Tabuada.runtimeconfig.json
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\bin\Debug\netcoreapp2.0\Tabuada.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\bin\Debug\netcoreapp2.0\Tabuada.dll
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\bin\Debug\netcoreapp2.0\Tabuada.pdb
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\obj\Debug\netcoreapp2.0\Tabuada.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\obj\Debug\netcoreapp2.0\Tabuada.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\obj\Debug\netcoreapp2.0\Tabuada.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\obj\Debug\netcoreapp2.0\Tabuada.dll
+c:\Users\FIC\Desktop\ProjetoAula\Tabuada\obj\Debug\netcoreapp2.0\Tabuada.pdb
